@@ -42,8 +42,3 @@ abstract class DBAbstractModel {
         array_pop($this->rows);
     }
 }
-?>
-    
-
-
-
